@@ -20,9 +20,8 @@ Make a pull request to the master branch
 ### Documenation
 
 Sign up for a Google account \
-Download the presentation \
+Make a copy of the presentation and save it to your Google Drive \
 Update the presentation \
-Upload the presentation to your Google Drive \
 Share it to us so we can review and add your contribution
 
 ## Contributors
