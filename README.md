@@ -11,7 +11,10 @@ This is a very basic website with plain HTML, CSS, and Javascript.
 ## References:
 
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+- [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
 - [freeCodeCamp](https://www.youtube.com/c/Freecodecamp)
+- [Hitesh Choudhary](https://www.youtube.com/user/hiteshitube)
+- [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
 - [Simply Explained](https://www.youtube.com/c/Savjee)
 - [Coding Tech](https://www.youtube.com/c/CodingTech)
 - [HTML Dog](https://htmldog.com)
