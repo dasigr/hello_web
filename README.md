@@ -12,6 +12,15 @@ The presentation will be based on the that tutorial.
 
 [Web Development Basics](https://docs.google.com/presentation/d/1DakkQ1gK8YZ8Ot0iIumdb1Wdk47eYDN9)
 
+Presentation flow:
+
+1. Welcome
+2. Agenda
+3. Presenting
+4. Demo
+5. Q&A
+6. Closing
+
 ## Contributing
 
 ### Code
