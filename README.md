@@ -2,11 +2,15 @@
 
 This is a very basic website with plain HTML, CSS, and Javascript.
 
+To get more details on how to learn creating a website, read the tutorials at https://htmldog.com/ .
+
+The presentation will be based on the that tutorial.
+
 ![GonJS](https://raw.githubusercontent.com/dasigr/hello_web/master/assets/gonjs.gif)
 
 ## Presentation
 
-[Presentation](https://docs.google.com/presentation/d/1DakkQ1gK8YZ8Ot0iIumdb1Wdk47eYDN9)
+[Web Development Basics](https://docs.google.com/presentation/d/1DakkQ1gK8YZ8Ot0iIumdb1Wdk47eYDN9)
 
 ## Contributing
 
