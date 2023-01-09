@@ -39,8 +39,7 @@ Share it to us so we can review and add your contribution
 
 ## Contributors
 
-Romualdo Dasig \
-[GitHub](https://github.com/dasigr)
+- [Romualdo Dasig](https://github.com/dasigr)
 
 ## References
 
